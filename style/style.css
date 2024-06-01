@@ -39,7 +39,7 @@ body{
 
 .container textarea{
     width: 100%;
-    padding: 12px;
+    padding: 15px;
     height: 210px;
     resize: none;
     border: none;
@@ -52,7 +52,7 @@ body{
 }
 .container textarea::placeholder{
     color: rgb(192, 215, 240);
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'poppins', sans-serif;
 }
 
@@ -88,7 +88,8 @@ body{
     border: none;
     outline: none;
     border-radius: 20px;
-    background-color: #6d49f1;
+    background-color: #233655;
+
     color: white;
     
 }
